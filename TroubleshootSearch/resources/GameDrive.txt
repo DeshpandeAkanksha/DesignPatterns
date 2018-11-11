@@ -1,0 +1,6 @@
+Error in upgrade.
+Cannot charge the drive
+Charging cable is not working
+Cannot connect with friends for a game
+Drive is not supporting game
+External storage drive detection problem

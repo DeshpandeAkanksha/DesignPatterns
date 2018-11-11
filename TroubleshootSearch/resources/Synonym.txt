@@ -1,0 +1,8 @@
+disjointed:broken
+vanished:disappeared
+PC:desktop
+suitable:compatible
+identify:detect
+updates:upgrade
+operative:working
+execution:performance

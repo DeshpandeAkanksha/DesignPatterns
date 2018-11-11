@@ -1,0 +1,368 @@
+Input : BackupPlus heated up
+Exact Match : Drive heated up while in use
+Naive Match : Drive heated up while in use
+===========================
+Input : BackupPlus Network path
+Naive Match : Network path not found
+Exact Match : Network path not found
+===========================
+Input : SurveillanceManager Problems in verification
+Exact Match : Problems in verification of video
+Naive Match : Problems in verification of video
+===========================
+Input : SurveillanceManager change language 
+Naive Match : Cannot change language 
+Exact Match : Cannot change language 
+===========================
+Input : HomeTheatre Storage full 
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Exact Match : Storage full message is appearing for portable storage device even if the device is empty.
+===========================
+Input : GameDrive connect with friends
+Exact Match : Cannot connect with friends for a game
+Naive Match : Cannot connect with friends for a game
+===========================
+Input : GameDrive drive detection
+Naive Match : Cannot charge the drive
+Naive Match : External storage drive detection problem
+Naive Match : OS not supporting the drive
+Exact Match : External storage drive detection problem
+===========================
+Input : HomeTheatre shutting down
+Exact Match : Device is shutting down after particular time interval
+Naive Match : Device is shutting down after particular time interval
+===========================
+Input : BackupPlus backup system
+Naive Match : Cannot take backup on drive
+===========================
+Input : SurveillanceManager Camera support
+Naive Match : Camera is not supporting
+===========================
+Input : HomeTheatre connecting ports
+Naive Match : Internet is not connecting to device
+===========================
+Input : HomeTheatre mkv media
+Naive Match : Cannot play mkv files
+===========================
+Input : GameDrive charge power
+Naive Match : Cannot charge the drive
+===========================
+Input : BackupPlus Portable USB
+Naive Match : Portable cable not working
+===========================
+Input : SurveillanceManager sound preferences
+Naive Match : Settings for sound effects
+===========================
+Input : GameDrive supporting applications
+Naive Match : Drive is not supporting game
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus port disjointed
+Semantic Match : Cable is broken
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus data vanished. 	
+Naive Match : Cannot recover data from drive
+===========================
+Input : SurveillanceManager restarting PC
+Semantic Match : Accessibility is limited to desktop.
+===========================
+Input : HomeTheatre file suitable
+Semantic Match : Camera is not compatible 
+Naive Match : Cannot play mkv files
+===========================
+Input : HomeTheatre device identify
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Semantic Match : Cannot detect device
+Naive Match : Local network devices cannot detect 
+Naive Match : Internet is not connecting to device
+Semantic Match : Local network devices cannot detect 
+Naive Match : Cannot detect device
+===========================
+Input : GameDrive system updates
+Semantic Match : Error in upgrade.
+===========================
+Input : GameDrive application operative
+Semantic Match : Charging cable is not working
+Semantic Match : Remote is not working
+Semantic Match : Portable cable not working
+===========================
+Input : SurveillanceManager No execution
+Semantic Match : Slow performance
+===========================
+Input : BackupPlus heated up
+Exact Match : Drive heated up while in use
+Naive Match : Drive heated up while in use
+===========================
+Input : BackupPlus Network path
+Naive Match : Network path not found
+Exact Match : Network path not found
+===========================
+Input : SurveillanceManager Problems in verification
+Exact Match : Problems in verification of video
+Naive Match : Problems in verification of video
+===========================
+Input : SurveillanceManager change language 
+Naive Match : Cannot change language 
+Exact Match : Cannot change language 
+===========================
+Input : HomeTheatre Storage full 
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Exact Match : Storage full message is appearing for portable storage device even if the device is empty.
+===========================
+Input : GameDrive connect with friends
+Exact Match : Cannot connect with friends for a game
+Naive Match : Cannot connect with friends for a game
+===========================
+Input : GameDrive drive detection
+Naive Match : Cannot charge the drive
+Naive Match : External storage drive detection problem
+Naive Match : OS not supporting the drive
+Exact Match : External storage drive detection problem
+===========================
+Input : HomeTheatre shutting down
+Exact Match : Device is shutting down after particular time interval
+Naive Match : Device is shutting down after particular time interval
+===========================
+Input : BackupPlus backup system
+Naive Match : Cannot take backup on drive
+===========================
+Input : SurveillanceManager Camera support
+Naive Match : Camera is not supporting
+===========================
+Input : HomeTheatre connecting ports
+Naive Match : Internet is not connecting to device
+===========================
+Input : HomeTheatre mkv media
+Naive Match : Cannot play mkv files
+===========================
+Input : GameDrive charge power
+Naive Match : Cannot charge the drive
+===========================
+Input : BackupPlus Portable USB
+Naive Match : Portable cable not working
+===========================
+Input : SurveillanceManager sound preferences
+Naive Match : Settings for sound effects
+===========================
+Input : GameDrive supporting applications
+Naive Match : Drive is not supporting game
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus port disjointed
+Semantic Match : Cable is broken
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus data vanished. 	
+Naive Match : Cannot recover data from drive
+===========================
+Input : SurveillanceManager restarting PC
+Semantic Match : Accessibility is limited to desktop.
+===========================
+Input : HomeTheatre file suitable
+Semantic Match : Camera is not compatible 
+Naive Match : Cannot play mkv files
+===========================
+Input : HomeTheatre device identify
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Semantic Match : Cannot detect device
+Naive Match : Local network devices cannot detect 
+Naive Match : Internet is not connecting to device
+Semantic Match : Local network devices cannot detect 
+Naive Match : Cannot detect device
+===========================
+Input : GameDrive system updates
+Semantic Match : Error in upgrade.
+===========================
+Input : GameDrive application operative
+Semantic Match : Charging cable is not working
+Semantic Match : Remote is not working
+Semantic Match : Portable cable not working
+===========================
+Input : SurveillanceManager No execution
+Semantic Match : Slow performance
+===========================
+Input : BackupPlus heated up
+Exact Match : Drive heated up while in use
+Naive Match : Drive heated up while in use
+===========================
+Input : BackupPlus Network path
+Naive Match : Network path not found
+Exact Match : Network path not found
+===========================
+Input : SurveillanceManager Problems in verification
+Exact Match : Problems in verification of video
+Naive Match : Problems in verification of video
+===========================
+Input : SurveillanceManager change language 
+Naive Match : Cannot change language 
+Exact Match : Cannot change language 
+===========================
+Input : HomeTheatre Storage full 
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Exact Match : Storage full message is appearing for portable storage device even if the device is empty.
+===========================
+Input : GameDrive connect with friends
+Exact Match : Cannot connect with friends for a game
+Naive Match : Cannot connect with friends for a game
+===========================
+Input : GameDrive drive detection
+Naive Match : Cannot charge the drive
+Naive Match : External storage drive detection problem
+Naive Match : OS not supporting the drive
+Exact Match : External storage drive detection problem
+===========================
+Input : HomeTheatre shutting down
+Exact Match : Device is shutting down after particular time interval
+Naive Match : Device is shutting down after particular time interval
+===========================
+Input : BackupPlus backup system
+Naive Match : Cannot take backup on drive
+===========================
+Input : SurveillanceManager Camera support
+Naive Match : Camera is not supporting
+===========================
+Input : HomeTheatre connecting ports
+Naive Match : Internet is not connecting to device
+===========================
+Input : HomeTheatre mkv media
+Naive Match : Cannot play mkv files
+===========================
+Input : GameDrive charge power
+Naive Match : Cannot charge the drive
+===========================
+Input : BackupPlus Portable USB
+Naive Match : Portable cable not working
+===========================
+Input : SurveillanceManager sound preferences
+Naive Match : Settings for sound effects
+===========================
+Input : GameDrive supporting applications
+Naive Match : Drive is not supporting game
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus port disjointed
+Semantic Match : Cable is broken
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus data vanished. 	
+Naive Match : Cannot recover data from drive
+===========================
+Input : SurveillanceManager restarting PC
+Semantic Match : Accessibility is limited to desktop.
+===========================
+Input : HomeTheatre file suitable
+Semantic Match : Camera is not compatible 
+Naive Match : Cannot play mkv files
+===========================
+Input : HomeTheatre device identify
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Semantic Match : Cannot detect device
+Naive Match : Local network devices cannot detect 
+Naive Match : Internet is not connecting to device
+Semantic Match : Local network devices cannot detect 
+Naive Match : Cannot detect device
+===========================
+Input : GameDrive system updates
+Semantic Match : Error in upgrade.
+===========================
+Input : GameDrive application operative
+Semantic Match : Charging cable is not working
+Semantic Match : Remote is not working
+Semantic Match : Portable cable not working
+===========================
+Input : SurveillanceManager No execution
+Semantic Match : Slow performance
+===========================
+Input : BackupPlus heated up
+Exact Match : Drive heated up while in use
+Naive Match : Drive heated up while in use
+===========================
+Input : BackupPlus Network path
+Naive Match : Network path not found
+Exact Match : Network path not found
+===========================
+Input : SurveillanceManager Problems in verification
+Exact Match : Problems in verification of video
+Naive Match : Problems in verification of video
+===========================
+Input : SurveillanceManager change language 
+Naive Match : Cannot change language 
+Exact Match : Cannot change language 
+===========================
+Input : HomeTheatre Storage full 
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Exact Match : Storage full message is appearing for portable storage device even if the device is empty.
+===========================
+Input : GameDrive connect with friends
+Exact Match : Cannot connect with friends for a game
+Naive Match : Cannot connect with friends for a game
+===========================
+Input : GameDrive drive detection
+Naive Match : Cannot charge the drive
+Naive Match : External storage drive detection problem
+Naive Match : OS not supporting the drive
+Exact Match : External storage drive detection problem
+===========================
+Input : HomeTheatre shutting down
+Exact Match : Device is shutting down after particular time interval
+Naive Match : Device is shutting down after particular time interval
+===========================
+Input : BackupPlus backup system
+Naive Match : Cannot take backup on drive
+===========================
+Input : SurveillanceManager Camera support
+Naive Match : Camera is not supporting
+===========================
+Input : HomeTheatre connecting ports
+Naive Match : Internet is not connecting to device
+===========================
+Input : HomeTheatre mkv media
+Naive Match : Cannot play mkv files
+===========================
+Input : GameDrive charge power
+Naive Match : Cannot charge the drive
+===========================
+Input : BackupPlus Portable USB
+Naive Match : Portable cable not working
+===========================
+Input : SurveillanceManager sound preferences
+Naive Match : Settings for sound effects
+===========================
+Input : GameDrive supporting applications
+Naive Match : Drive is not supporting game
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus port disjointed
+Semantic Match : Cable is broken
+Naive Match : OS not supporting the drive
+===========================
+Input : BackupPlus data vanished. 	
+Naive Match : Cannot recover data from drive
+===========================
+Input : SurveillanceManager restarting PC
+Semantic Match : Accessibility is limited to desktop.
+===========================
+Input : HomeTheatre file suitable
+Semantic Match : Camera is not compatible 
+Naive Match : Cannot play mkv files
+===========================
+Input : HomeTheatre device identify
+Naive Match : Storage full message is appearing for portable storage device even if the device is empty.
+Semantic Match : Cannot detect device
+Naive Match : Local network devices cannot detect 
+Naive Match : Internet is not connecting to device
+Semantic Match : Local network devices cannot detect 
+Naive Match : Cannot detect device
+===========================
+Input : GameDrive system updates
+Semantic Match : Error in upgrade.
+===========================
+Input : GameDrive application operative
+Semantic Match : Charging cable is not working
+Semantic Match : Remote is not working
+Semantic Match : Portable cable not working
+===========================
+Input : SurveillanceManager No execution
+Semantic Match : Slow performance
+===========================

@@ -1,0 +1,82 @@
+Input : BackupPlus heated up
+Drive heated up while in use
+===========================
+Input : BackupPlus Network path
+Network path not found
+===========================
+Input : SurveillanceManager Problems in verification
+Problems in verification of video
+===========================
+Input : SurveillanceManager change language 
+Cannot change language 
+===========================
+Input : HomeTheatre Storage full 
+Storage full message is appearing for portable storage device even if the device is empty.
+===========================
+Input : GameDrive connect with friends
+Cannot connect with friends for a game
+===========================
+Input : GameDrive drive detection
+Cannot charge the drive
+External storage drive detection problem
+OS not supporting the drive
+===========================
+Input : HomeTheatre shutting down
+Device is shutting down after particular time interval
+===========================
+Input : BackupPlus backup system
+Cannot take backup on drive
+===========================
+Input : SurveillanceManager Camera support
+Camera is not supporting
+===========================
+Input : HomeTheatre connecting ports
+Internet is not connecting to device
+===========================
+Input : HomeTheatre mkv media
+Cannot play mkv files
+===========================
+Input : GameDrive charge power
+Cannot charge the drive
+===========================
+Input : BackupPlus Portable USB
+Portable cable not working
+===========================
+Input : SurveillanceManager sound preferences
+Settings for sound effects
+===========================
+Input : GameDrive supporting applications
+Drive is not supporting game
+OS not supporting the drive
+===========================
+Input : BackupPlus port disjointed
+Cable is broken
+OS not supporting the drive
+===========================
+Input : BackupPlus data vanished. 	
+Cannot recover data from drive
+===========================
+Input : SurveillanceManager restarting PC
+Accessibility is limited to desktop.
+===========================
+Input : HomeTheatre file suitable
+Camera is not compatible 
+Cannot play mkv files
+===========================
+Input : HomeTheatre device identify
+Internet is not connecting to device
+Storage full message is appearing for portable storage device even if the device is empty.
+Cannot detect device
+Local network devices cannot detect 
+===========================
+Input : GameDrive system updates
+Error in upgrade.
+===========================
+Input : GameDrive application operative
+Remote is not working
+Charging cable is not working
+Portable cable not working
+===========================
+Input : SurveillanceManager No execution
+Slow performance
+===========================

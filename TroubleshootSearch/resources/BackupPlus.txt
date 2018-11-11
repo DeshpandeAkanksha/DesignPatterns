@@ -1,0 +1,6 @@
+Cable is broken
+Cannot take backup on drive
+Backed up information disappeared
+Drive heated up while in use
+Cannot recover data from drive
+Network path not found

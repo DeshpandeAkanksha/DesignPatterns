@@ -1,0 +1,6 @@
+Storage full message is appearing for portable storage device even if the device is empty.
+Camera is not compatible 
+Internet is not connecting to device
+Local network devices cannot detect 
+Power button not working
+Cannot play mkv files

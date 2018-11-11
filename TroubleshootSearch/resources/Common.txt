@@ -1,0 +1,7 @@
+Slow performance
+Cannot detect device
+Device is shutting down after particular time interval
+Portable cable not working
+Remote is not working
+Settings for sound effects
+OS not supporting the drive
